@@ -1,0 +1,14 @@
+.user-list-item-wrapper {
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 10px 0px;
+}
+
+.user-list-item-button {
+    background: none;
+    border: none;
+    padding: 0px;
+    outline: none;
+    font-size: 16px;
+    cursor: pointer;
+}
